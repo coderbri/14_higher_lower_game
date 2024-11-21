@@ -1,6 +1,6 @@
 # 14 Higher Lower Game
 
-## Overivew
+## Overview
 
 A fun CLI-based game where you compare two Instagram accounts and guess which one has more followers. This project was completed as part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
